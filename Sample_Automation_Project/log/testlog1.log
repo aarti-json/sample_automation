@@ -1,0 +1,33 @@
+2020-05-16 17:29:49,514 [main] INFO Automation - Validate product creation
+2020-05-16 17:36:44,573 [main] INFO Automation - Validate product creation
+2020-05-16 17:37:40,043 [main] INFO Automation - Validate product creation
+2020-05-16 17:44:52,426 [main] INFO Automation - Validate product creation
+2020-05-16 17:50:49,362 [main] INFO Automation - Validate product creation
+2020-05-16 17:51:08,949 [main] INFO Automation - Product is created
+2020-05-16 17:51:08,957 [main] INFO Automation - Validate user able to update product
+2020-05-16 17:51:11,380 [main] INFO Automation - product is updated
+2020-05-16 17:51:11,386 [main] INFO Automation - Validate user able to delete product sucessfully
+2020-05-16 17:51:16,508 [main] INFO Automation - Product is deleted sucessfully
+2020-05-16 17:52:05,561 [main] INFO Automation - Validate product creation
+2020-05-16 17:54:02,088 [main] INFO Automation - Validate product creation
+2020-05-16 17:55:05,466 [main] INFO Automation - Validate product creation
+2020-05-16 17:56:41,084 [main] INFO Automation - Validate product creation
+2020-05-16 17:59:47,592 [main] INFO Automation - Validate product creation
+2020-05-16 19:05:05,941 [main] INFO Automation - Validate product creation
+2020-05-16 19:10:33,332 [main] INFO Automation - Validate product creation
+2020-05-16 23:51:28,936 [main] INFO Automation - Validate product creation
+2020-05-17 00:05:18,231 [main] INFO Automation - Validate product creation
+2020-05-17 00:09:07,836 [main] INFO Automation - Validate product creation
+2020-05-17 00:11:24,430 [main] INFO Automation - Product is created
+2020-05-17 00:11:24,435 [main] INFO Automation - Validate user able to update product
+2020-05-17 00:11:34,566 [main] INFO Automation - product is updated
+2020-05-17 00:11:34,575 [main] INFO Automation - Validate user able to delete product sucessfully
+2020-05-17 00:11:45,566 [main] INFO Automation - Product is deleted sucessfully
+2020-05-17 00:20:16,995 [main] INFO Automation - Validate product creation
+2020-05-17 00:21:39,476 [main] INFO Automation - Validate product creation
+2020-05-17 00:23:28,585 [main] INFO Automation - Validate product creation
+2020-05-17 00:25:30,498 [main] INFO Automation - Product is created
+2020-05-17 00:25:30,507 [main] INFO Automation - Validate user able to update product
+2020-05-17 00:25:40,556 [main] INFO Automation - product is updated
+2020-05-17 00:25:40,563 [main] INFO Automation - Validate user able to delete product sucessfully
+2020-05-17 00:25:50,598 [main] INFO Automation - Product is deleted sucessfully

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Sophia TestSuite]">
+  <listeners>
+    <listener class-name="utils.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="DemoTest(failed)">
+    <classes>
+      <class name="tests.CreateTranslationTest">
+        <methods>
+          <include name="verifyCreateTranslation"/>
+          <include name="tearDown"/>
+          <include name="verifyApplaunchedSuccessfully"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.CreateTranslationTest -->
+    </classes>
+  </test> <!-- DemoTest(failed) -->
+</suite> <!-- Failed suite [Sophia TestSuite] -->
