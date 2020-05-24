@@ -31,16 +31,14 @@ public class Product_CreationTest {
 	@BeforeClass
 	public void setUp() {
 		driver = df.createDriver();
-	   driver.get(fileOperations.getValueFromPropertyFile(constants.CONFIG_WEB_FILE_PATH, "url"));
-	  /* logger = Logger.getLogger("xys");
-	   PropertyConfigurator.configure("Log4j.properties");*/
+	   
 	}
 
 	@Test
 	public void TestRun(){
 		
 		
-		
+		driver.get(fileOperations.getValueFromPropertyFile(constants.CONFIG_WEB_FILE_PATH, "url"));
 	}
 	
 	
