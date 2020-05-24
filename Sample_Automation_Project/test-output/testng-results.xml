@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11898" started-at="2020-05-23T17:35:37Z" finished-at="2020-05-23T17:35:49Z">
+  <suite name="Default suite" duration-ms="12158" started-at="2020-05-24T06:25:30Z" finished-at="2020-05-24T06:25:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11898" started-at="2020-05-23T17:35:37Z" finished-at="2020-05-23T17:35:49Z">
+    <test name="Default test" duration-ms="12158" started-at="2020-05-24T06:25:30Z" finished-at="2020-05-24T06:25:42Z">
       <class name="tests.Product_CreationTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.Product_CreationTest@5f341870]" name="setUp" is-config="true" duration-ms="11805" started-at="2020-05-23T17:35:37Z" finished-at="2020-05-23T17:35:49Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.Product_CreationTest@5f341870]" name="setUp" is-config="true" duration-ms="12065" started-at="2020-05-24T06:25:30Z" finished-at="2020-05-24T06:25:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="TestRun()[pri:0, instance:tests.Product_CreationTest@5f341870]" name="TestRun" duration-ms="17" started-at="2020-05-23T17:35:49Z" finished-at="2020-05-23T17:35:49Z">
+        <test-method status="PASS" signature="TestRun()[pri:0, instance:tests.Product_CreationTest@5f341870]" name="TestRun" duration-ms="19" started-at="2020-05-24T06:25:42Z" finished-at="2020-05-24T06:25:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestRun -->

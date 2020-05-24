@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 import constants.Constants;
 import init.DriverFactory;
 import utils.FileOperations;
-import utils.RandomGenrator;
+
 
 public class Product_CreationTest {
 
@@ -21,7 +21,7 @@ public class Product_CreationTest {
 	DriverFactory df = new DriverFactory();
 	FileOperations fileOperations = new FileOperations();
 	Constants constants = new Constants();
-	RandomGenrator ran = new RandomGenrator();
+	
 
 	public static String Error_message;
 	public static Logger logger;

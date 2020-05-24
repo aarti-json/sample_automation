@@ -21,7 +21,8 @@ import org.testng.annotations.Test;
 import constants.Constants;
 import init.DriverFactory;
 import utils.FileOperations;
-import utils.RandomGenrator;
+
+
 
 public class testbrokenlink {
 
@@ -30,7 +31,7 @@ public class testbrokenlink {
 		DriverFactory df = new DriverFactory();
 		FileOperations fileOperations = new FileOperations();
 		Constants constants = new Constants();
-		RandomGenrator ran = new RandomGenrator();
+		
 
 		public static String Error_message;
 		public static Logger logger;
