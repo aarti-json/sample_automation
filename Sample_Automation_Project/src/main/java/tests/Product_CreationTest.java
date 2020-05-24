@@ -37,8 +37,8 @@ public class Product_CreationTest {
 	@Test
 	public void TestRun(){
 		
-		
-		driver.get(fileOperations.getValueFromPropertyFile(constants.CONFIG_WEB_FILE_PATH, "url"));
+		driver.get("https://www.naukri.com/");
+		//driver.get(fileOperations.getValueFromPropertyFile(constants.CONFIG_WEB_FILE_PATH, "url"));
 	}
 	
 	
