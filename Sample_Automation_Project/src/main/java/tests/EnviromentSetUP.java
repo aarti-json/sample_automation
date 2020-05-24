@@ -23,7 +23,7 @@ public class EnviromentSetUP {
 	@BeforeClass
 	public void setUp() throws InterruptedException {
 		driver = df.createDriver();
-		driver.get(fileOperations.getValueFromPropertyFile(constants.CONFIG_WEB_FILE_PATH, "url"));
+	//	driver.get(fileOperations.getValueFromPropertyFile(constants.CONFIG_WEB_FILE_PATH, "url"));
 		Thread.sleep(2000);
 	
 	}
